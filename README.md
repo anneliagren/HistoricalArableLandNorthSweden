@@ -22,9 +22,9 @@ Once the article is accepted, this section will be updated with a direct link to
 
 ## Data availability
 
-The map of historical arable land for Sweden is publicly available at:
+The map of historical arable land for Sweden is publicly available at SND/ResearchData.se Use the DOI to search for the dataset https://doi.org/10.5878/95bj-4848 
 
-🔗 add link to reserchdata.se
+
 
 ---
 
